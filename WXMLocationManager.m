@@ -2,8 +2,8 @@
 //  WXMLocationManager.m
 //  WXMComponentization
 //
-//  Created by sdjim on 2019/12/31.
-//  Copyright © 2019 sdjim. All rights reserved.
+//  Created by wxm on 2019/12/31.
+//  Copyright © 2019 wxm. All rights reserved.
 //
 #import <CoreLocation/CoreLocation.h>
 #import "WXMLocationManager.h"
